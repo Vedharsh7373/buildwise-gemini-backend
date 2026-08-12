@@ -1,0 +1,24 @@
+{
+  "project": {
+    "name": "Demo Construction Project",
+    "location": "Bengaluru",
+    "status": "In Progress",
+    "budget": 5000000,
+    "spent": 4550000,
+    "progress": 68,
+    "deadline": "2026-12-20",
+    "workers": 31
+  },
+  "risks": {
+    "schedule": 81,
+    "budget": 68,
+    "materials": 76,
+    "labour": 42,
+    "overall": 73
+  },
+  "issues": [
+    "7 overdue tasks",
+    "Cement below minimum stock",
+    "Labour shortage of 9 workers"
+  ]
+}
